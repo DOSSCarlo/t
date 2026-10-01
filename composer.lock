@@ -1,0 +1,17 @@
+{
+    "_readme": [
+        "This file locks the project dependencies to their current versions."
+    ],
+    "content-hash": "67b2b370325ce66294befdf5ee5d8155",
+    "packages": [],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": "^8.0"
+    },
+    "platform-dev": []
+}
